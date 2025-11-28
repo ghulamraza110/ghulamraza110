@@ -6,7 +6,7 @@
 </p>
  <h3 align="center">from Pakistan 🇵🇰</h3>
 
-![](https://komarev.com/ghpvc/?username=ghulamraza&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=ghulamraza&abbreviated=true&color=red)
 
 ---
 
