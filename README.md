@@ -10,11 +10,11 @@
 
 ---
 
-🔭 I’m currently working on Data science projects  
+🔭 I’m currently working on Data and AI projects  
 👯 I’m looking to collaborate on AI engineer and Data science roles  
 🤝 I’m looking for help with deployment best practices and API integrations  
-🌱 I’m currently learning React, Tailwind CSS, Framer Motion, and cloud deployment  
-💬 Ask me about Python, Django, Streamlit, PyQt5, scikit-learn, and repo hygiene  
+🌱 I’m currently learning React, Framer Motion, LangGraph and cloud deployment  
+💬 Ask me about Python, Django, Streamlit, LangChain, scikit-learn, and repo hygiene  
 📫 How to reach me: ghulamraza3281@gmail.com  
 👨‍💻 All of my projects are available at [ghulamraza-portfolio.vercel.app](https://ghulamraza-portfolio.vercel.app)  
 ⚡ Fun fact: I love clean code, minimal UI, and debugging deployment configs 😄
@@ -30,13 +30,13 @@
 `React` `Tailwind CSS` `Framer Motion` `Bootstrap`
 
 **Backend & Frameworks:**  
-`Django` `Streamlit` `PyQt5`
+`Django` `Streamlit` `PyQt5` `LangChain`
 
 **AI/ML & Data:**  
 `pandas` `scikit-learn` `nltk` `OpenCV`
 
 **DevOps & Deployment:**  
-`Render` `Hugging Face Spaces` `Git` `GitHub`
+`Render` `Hugging Face Spaces` `Git` `GitHub` `Pythonanywhere`
 
 ---
 
